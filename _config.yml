@@ -95,11 +95,18 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
-
 # Friends
 friends: [
     {
         title: "wcy",
         href: "http://47.98.181.32/"
+    }，
+    {
+        title: "赚爷",
+        href: "wzyxv1n.top"
+    }，
+    {
+        title: "ylh",
+        href: "haaachi.top"
     }
 ]
