@@ -96,28 +96,5 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "wcy",
-        href: "http://47.98.181.32/"
-    },
-    {
-        title: "赚爷",
-        href: "http://wzyxv1n.top"
-    },
-    {
-        title: "ylh",
-        href: "http://haaachi.top"
-    },
-    {
-        title: "C老板",
-        href: "https://cosmos.red"
-    },
-    {
-        title: "y",
-        href: "https://blog.xyzz.ml"
-    },
-    {
-        title: "0x4qE",
-        href: "https://0727.site/"
-    }
+    
 ]
